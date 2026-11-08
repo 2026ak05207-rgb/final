@@ -1,0 +1,16 @@
+{
+    "assignment_name": "Machine Learning Assignment - 2",
+    "student_id": "2026AK05538",
+    "course_title": "M.Tech (AIML) - Machine Learning",
+    "github_repository_url": "https://github.com/2026AK05538/bits-ml-assignment-2",
+    "streamlit_app_url": "https://2026ak05538-bits-ml-assignment-2-app.streamlit.app",
+    "models_included": [
+        "Logistic Regression",
+        "Decision Tree",
+        "KNN",
+        "Naive Bayes",
+        "Support Vector Machine"
+    ],
+    "winning_model": "Support Vector Machine",
+    "winning_accuracy": 0.9467
+}
